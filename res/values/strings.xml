@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ModelViewer</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dummy_button">Option</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="iData_name">INTENT_DATA_NAME</string>
+</resources>
